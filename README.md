@@ -8,3 +8,7 @@ Boston Housing Project: Model Evaluation and Validation. The pricing of homes ar
 Customer Segment Project: Use unsupervised methods to cluster customer data and predict inventory ordering practices.
 
 Finding Donors Project: Use supervised methods to classify and predict probable donors from census data.
+
+Image Classification Project: Images from the CIRFAR-10 data base is classified using a deep neural network built with TensorFlow.
+
+
